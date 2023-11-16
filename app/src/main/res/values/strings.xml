@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">5-Creacion_de_Elementos_por_Codigo</string>
+    <string name="etiqueta">INFORMACIÓN ALUMNO</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="grupoa">Grupo A</string>
+    <string name="grupob">Grupo B</string>
+    <string name="grupoc">Grupo C</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Crear Alumno</string>
+    <string-array name="spciclos">
+        <item>Selecciona un ciclo</item>
+        <item>SMR</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>3D</item>
+        <item>Marketing</item>
+    </string-array>
+</resources>
